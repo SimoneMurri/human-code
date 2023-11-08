@@ -1,0 +1,97 @@
+Devo fare la lasagna:
+    A) Conosco la ricetta della lasagna
+    B) Non conosco la ricetta della lasagna:
+    Inserisco la mano destra ella tasca del pantalone
+        Prendo il telefono dalla tasca
+            Accendo il telefono
+                Cerco la ricetta della lasagna sul telefono
+                    Scelgo la ricetta di Giallo Zafferano della lasagna
+                        Controllo gli ingredienti presentati dalla ricetta
+Vado verso la credenza
+    La apro
+        Cerco gli ingredienti:
+            Cerco il ragù nella credenza
+                prendo il ragù con la mano
+                    Lo poggio sul tavolo
+        Cerco la besciamella nella credenza
+                prendo la besciamella con la mano
+                    Lo poggio sul tavolo
+        Cerco la pastasfoglia nella credenza
+                prendo la pastasfoglia con la mano
+                    Lo poggio sul tavolo
+        Cerco la pirofila nella credenza
+                prendo la pirofila con la mano
+                    Lo poggio sul tavolo
+        Cerco il parmiggiano nella credenza
+                prendo il parmiggiano con la mano
+                    Lo poggio sul tavolo
+        Cerco il mestolo nella credenza
+            Prendo il mestolo con la mano
+                Lo poggio sul tavolo
+Vado verso il forno
+    Lo accendo a 170° ventilato
+Vado verso il tavolo
+    Posiziono la pirofila d'avanti a me sul tavolo
+        prendo la confezione della sfoglia, il barattolo del ragù, la confezione della besciamella, e la confezione del parmiggiano
+            apro la confezione della sfoglia, il barattolo del ragù, la confezione della besciamella, e la confezione del parmiggiano
+                prendo uno strato della sfoglia
+                    la posiziono nella pirofila
+                        prendo il mestolo
+                            con il mestolo prendo il ragù
+                                lo stendo su uno strato di sfoglia
+                                    con il mestolo prendo la besciamella
+                                        la stendo sullo strato di sfoglia
+                prendo uno strato della sfoglia
+                            la posiziono nella pirofila
+                                prendo il mestolo
+                                    con il mestolo prendo il ragù
+                                        lo stendo su uno strato di sfoglia
+                                            con il mestolo prendo la besciamella
+                                                la stendo sullo strato di sfoglia
+                prendo uno strato della sfoglia
+                            la posiziono nella pirofila
+                                prendo il mestolo
+                                    con il mestolo prendo il ragù
+                                        lo stendo su uno strato di sfoglia
+                                            con il mestolo prendo la besciamella
+                                                la stendo sullo strato di sfoglia
+                prendo uno strato della sfoglia
+                            la posiziono nella pirofila
+                                prendo il mestolo
+                                    con il mestolo prendo il ragù
+                                        lo stendo su uno strato di sfoglia
+                                            con il mestolo prendo la besciamella
+                                                la stendo sullo strato di sfoglia
+                prendo uno strato della sfoglia
+                            la posiziono nella pirofila
+                                prendo il mestolo
+                                    con il mestolo prendo il ragù
+                                        lo stendo su uno strato di sfoglia
+                                            con il mestolo prendo la besciamella
+                                                la stendo sullo strato di sfoglia
+                prendo uno strato della sfoglia
+                            la posiziono nella pirofila
+                                prendo il mestolo
+                                    con il mestolo prendo il ragù
+                                        lo stendo su uno strato di sfoglia
+                                            con il mestolo prendo la besciamella
+                                                la stendo sullo strato di sfoglia
+                prendo il parmigiano
+                    lo stendo sullo strato di ragù
+                        poso il mestolo
+Prendo la pirofila con la mano destra
+    vado verso il forno preriscaldato
+        apro il forno con la mano sinistra
+            inserisco la pirofila nel forno
+                chiudo nel forno
+                    imposto il timer di 40'
+Passati 40' e il timer suona
+    vado verso il forno
+        apro il forno con la mano destra
+            prendo le presine
+                prendo la pirofila con le presine
+                    poggio la pirofila sul fornello spento
+            poso le presine
+                la lascio raffreddare
+        chiudo il forno
+            spengo il forno
